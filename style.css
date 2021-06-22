@@ -1,0 +1,31 @@
+h1{
+    color: seashell;
+    background-color: black;
+    text-align: left;
+    font-weight: 400;
+    padding: 13px 12px;
+    font-family: sans-serif;
+    font-size: 56px;
+    
+}
+h2{
+    color: white;
+    background-color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    padding: 15px;
+    font-size: 34px;
+    font-family: sans-serif;
+}
+h3{
+    color: midnightblue;
+    background-color: steelblue;
+    text-align: right;
+    text-decoration: underline;
+    padding: 20px;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+#cloud{
+    color: cyan;
+}
